@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- QUOTES >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TORREHN_STARK_QUOTE" Language="en_US">
+			<Text>“King Torrhen Stark bent the knee and swore fealty to the Targaryen dynasty in order to spare the destruction of Winterfell and his people.”[NEWLINE]– Robb Stark about Torrhen</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_EDMYN_TULLY_QUOTE" Language="en_US">
+			<Text>“In return for Edmyn's service, House Tully was made Aegon's new Lord Paramount of the Trident and all the other lords had to swear us fealty.”[NEWLINE]– Brynden Tully about Edmyn</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MERIA_MARTELL_QUOTE" Language="en_US">
+			<Text>Ours are Unbowed, Unbent, Unbroken. You may burn us, my lady ... but you will not bend us, break us, or make us bow. This is Dorne.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SHARRA_ARRYN_QUOTE" Language="en_US">
+			<Text>“Queen Regent of the Vale shut the Bloody Gate against the Targaryens and massed the knights of the Vale behind it to lock it. But Visenya simply flew her dragon to a balcony of the Eyrie where the boy king was playing and gave the boy a ride around the castle... in return for his mother's submission.”[NEWLINE]– Petyr Baelish</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LOREN_LANNISTER_QUOTE" Language="en_US">
+			<Text>“Seeing both the threat and... opportunity the Targaryens represented, Loren wisely surrendered, and aided Aegon in his further conquest of Westeros.”[NEWLINE]– Tywin Lannister about Loren</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MERNIX_GARDENER_QUOTE" Language="en_US">
+			<Text>“King Mern allied us with the Rock to repel the upstart's army. One can only marvel that King Mern did not reconsider when he saw the living dragons against him.”[NEWLINE]– Margaery Tyrell</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ARGILAC_DURRANDON_QUOTE" Language="en_US">
+			<Text>“Argilac may have been arrogant, but he wasn't stupid or a coward.”[NEWLINE]– Varys </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HARREN_HOARE_QUOTE" Language="en_US">
+			<Text>What is outside my walls is of no concern to me. Those walls are strong and thick. I built in stone. Stone does not burn.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AEGON_TARGARYEN_QUOTE" Language="en_US">
+			<Text>A king should never sit easy.</Text>
+		</Row>
+		<!-- LEADERS >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TORREHN_STARK_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Torrhen Stark, known as the King Who Knelt, was a head of House Stark who reigned as King in the North until Aegon I Targaryen invaded Westeros with his dragons. He was named Lord of Winterfell and Warden of the North after submitting to Aegon during the War of Conquest. After both the riverlands and Storm's End had fallen under the control of Aegon the Conqueror, Torrhen Stark called his banners. He was aware that, due to the vast distance of the North, it would take a long time to assemble his army. After the Field of Fire, whilst at Highgarden, Aegon I learned that Torrhen had crossed the Neck and entered the riverlands, leading an army of thirty thousand men. Aegon I abandoned his plans to march south, and at once started his way north, racing ahead of his army on Balerion. Both Rhaenys and Visenya Targaryen, as well as all the lords who had bent the knee to Aegon after Harrenhal and the Field of Fire, were send word of this movement. So when Torrhen reached the banks of the Trident, he found a host of forty-five thousand men and three dragons waiting for him.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_EDMYN_TULLY_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Edmyn Tully was Lord of Riverrun and head of House Tully during Aegon's Conquest. Lord Edmyn was the first riverlord to join Aegon the Conqueror's side in the fight against King Harren the Black. After Harren and his line perished in the burning of Harrenhal, Aegon granted Edmyn dominion over the riverlands as Lord Paramount of the Trident and required the other riverlords to swear him fealty. Aegon granted Harrenhal to Lord Quenton of House Qoherys, who took one of Edmyn's daughters to wife. Edmyn served as Hand of the King to King Aegon I from 7 AC to 9 AC.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MERIA_MARTELL_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Meria Nymeros Martell was the ruling Princess of Dorne from House Martell during the invasion of Westeros by Aegon the Conqueror. When Queen Rhaenys Targaryen led the invasion to Dorne during the War of Conquest, the Dornish refused to give battle. Instead, they launched guerilla raids on Rhaenys's forces, then melted away into the mountains and deserts, and returned only to launch guerilla raids on the army anew. After taking the Dornish keeps, Rhaenys would find them empty, except for women and children. When she would ask where the men had gone to, the Dornish would just reply "away". Rhaenys thereupon flew on her dragon, Meraxes, to Sunspear and met Princess Meria alone there. Rhaenys demanded the surrender of Dorne, but Meria instead replied that Dorne would never surrender. The Targaryen army then withdrew from Dorne, leaving the country untaken.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SHARRA_ARRYN_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Sharra Arryn, known as the Flower of the Mountain, was Queen Regent of the Kingdom of Mountain and Vale, ruling in the name of her son, the boy-king Ronnel Arryn, during the invasion of Westeros by Aegon I Targaryen. Sharra was regarded as one the most beautiful women of Westeros. As other regions of Westeros fell to Aegon, Sharra amassed the Vale army at the Bloody Gate. However, Aegon sent Visenya to the Eyrie riding her dragon Vhagar. When Sharra returned to the Eyrie she found her son sitting on Visenya's lap and asking if he could ride the dragon with Visenya. Sharra bent the knee afterward. The Arryns were declared Wardens of the East and Defenders of the Vale.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LOREN_LANNISTER_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Loren I Lannister was a King of the Rock and Lord of Casterly Rock from House Lannister. He submitted to the rule of House Targaryen after surviving the Field of Fire, and, as he was the last last King of the Rock, he became known as Loren the Last. After Aegon I Targaryen's landing, he set about conquering the Seven Kingdoms. King Mern IX Gardener, the King of the Reach, allied with King Loren of the Rock to join forces and throw the invader back into the sea. The two armies met in the Reach, where the combined might of the Reach and the Rock broke Aegon's army. However, Aegon and his sisters, Visenya and Rhaenys Targaryen, took to the sky with their dragons. Near four thousand men died that day, including Mern. Loren survived the battle that would become known as the Field of Fire and submitted to the rule of House Targaryen the following day.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MERNIX_GARDENER_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Mern IX Gardener was the last King of the Reach and Lord of Highgarden from House Gardener. After Aegon the Conqueror landed in Westeros, set on conquering the Seven Kingdoms. King Mern IX of the the Reach and King Loren I Lannister of the Rock agreed to join forces and throw the invaders back into the sea. The two armies gathered near Goldengrove in the Reach. Since he had brought half as many more men, Mern had the honor of commanding the center of the combined army from the Reach and the westerlands. Edmund, Mern's son and heir, was to lead the vanguard, while another son, Gawen, accompanied the king with the banner. he combined might of the Reach and the Rock began to break the Targaryen host, but Aegon and his sisters, Visenya and Rhaenys, took to the sky with their dragons. The beasts killed 4,000 men of the combined army at the Field of Fire, among them Mern and his sons, grandsons, brothers, cousins, and other kin.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ARGILAC_DURRANDON_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>King Argilac Durrandon, also known as Argilac the Arrogant, was the last Storm King from House Durrandon who reigned in the stormlands before the Conquest by Aegon I Targaryen. When he was boy, King Argilac turned back a Dornish invasion. Towards the end of the Century of Blood, he joined the great alliance against the tigers from Volantis and led a host into the Disputed Lands, marching against an army from Volantis which was attempting to retake Myr. Harren the Black, the King of the Isles and the Rivers, was nearing completion of his massive castle, Harrenhal, and was said to be looking for more conquests. Argilac had grown afraid of Harren and so proposed an alliance with Aegon. It is believed he wanted to create a buffer zone between his kingdom and Harren's. He offered the hand of his daughter, Argella, in marriage as well as dowry lands, though, much of the lands were in fact in the possession of Harren the Black. Aegon refused and instead offered the hand of his best friend and rumored bastard brother, Orys Baratheon. Argilac took this as a grave insult and had the hands of the envoy cut off. He sent them to Aegon with a message of "These are the only hands you will receive". Aegon called his banners and took counsel with them and his sisters. Then Aegon sent ravens to the rulers of the Seven Kingdoms. He informed them that there would only be one king in Westeros. Those who bent the knee would keep their lands and titles, but those that did not he would destroy. King Argilac refused to submit.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HARREN_HOARE_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Harren Hoare, known as Harren the Black or Black Harren, was last of the Kings of the Isles and the Rivers to rule over the Iron Islands and the riverlands, and the last member of House Hoare to rule. He completed the grand castle, Harrenhal, which would serve to be his doom. During his reign, Harren was a vain, bloody tyrant hated by those he ruled. While Halleck ruled from a modest tower house at Fairmarket, Harren desired a grander seat, and he commanded the the construction of the grand castle Harrenhal, a project that took almost forty years to complete. The riverlands and Iron Islands were drained to finance the building, with thousands of captives dying in the quarries, chained to sledges, or laboring on the towering walls and five huge towers of Harrenhal. Weirwoods were cut to provide rafters and beams.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HARREN_HOARE_CHAPTER_HISTORY_PARA_2"  Language="en_US">
+			<Text>Harren had finally completed his grand castle of Harrenhal, when Aegon Targaryen, Lord of Dragonstone, landed in Westeros. Harren's tyrannical rule over the riverlands earned him little love from his lords. As Aegon advanced many of the river lords, led by Lord Edmyn Tully, revolted against Harren to support the Targaryen invader and joined the conqueror's host. Harren took refuge in the well-stocked Harrenhal, the largest castle of Westeros, and the king rejected Aegon's offer of retaining Harrenhal in return for becoming Aegon's vassal. Balerion, who was not obstructed by the towering walls of Harrenhal, roasted Harren and his surviving sons in the tallest tower of the castle, ending his rule and kingdom.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AEGON_TARGARYEN_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Aegon I Targaryen, also known as Aegon the Conqueror and Aegon the Dragon, was the first Lord of the Seven Kingdoms and king on the Iron Throne, having conquered six of the Seven Kingdoms during the Conquest. The dragonlord was the founder of the ruling Targaryen dynasty of Westeros. While the Century of Blood came to an end, Aegon's interest in Westeros grew. He had previously visited the Citadel of Oldtown and the Arbor in the Kingdom of the Reach with his sister Visenya, and might also have visited Lannisport in the Kingdom of the Rock. A huge wooden table, cut in the shape of Westeros, with a map painted upon the surface. No borders were painted upon the Painted Table, however, as Aegon believed it should be one realm instead of seven.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

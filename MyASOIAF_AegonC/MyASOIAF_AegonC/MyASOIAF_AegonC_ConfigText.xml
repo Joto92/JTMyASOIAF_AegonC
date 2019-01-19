@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- THE NORTH | TORREHN_STARK	-->
+		<Row Tag="LOC_LEADER_TORREHN_STARK_NAME" Language="en_US">
+			<Text>Torrehn Stark</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_THE_KING_WHO_KNELT_NAME" Language="en_US">
+			<Text>The King Who Knelt</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_THE_KING_WHO_KNELT_DESCRIPTION" Language="en_US">
+			<Text>Receives [ICON_Science] Science or [ICON_Culture] Culture from [ICON_TradeRoute] Trade Routes to civilizations that are more advanced than the North (+1 per 3 technologies or civics ahead).</Text>
+		</Row>
+		<!-- END OF THE NORTH | TORREHN_STARK	-->
+		<!-- THE TULLY | EDMYN_TULLY	-->
+		<Row Tag="LOC_LEADER_EDMYN_TULLY_NAME" Language="en_US">
+			<Text>Edmyn Tully</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_FIRST_LORD_PARAMOUNT_TRIDENT_NAME" Language="en_US">
+			<Text>The First Lord Paramount of the Trident</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_FIRST_LORD_PARAMOUNT_TRIDENT_DESCRIPTION" Language="en_US">
+			<Text>Half war weariness from combat in your territory. +1 [ICON_Culture] Culture and +1 [ICON_Science] Science from international [ICON_TradeRoute] Trade Routes. May declare war on anyone at war with their allies without warmonger penalties. When at war with a common foe, they and their allies share pillage rewards and share combat experience gains if within 5 tiles.</Text>
+		</Row>
+		<!-- END OF THE TULLY | EDMYN_TULLY	-->
+		<!-- THE MARTELL | MERIA_MARTELL	-->
+		<Row Tag="LOC_LEADER_MERIA_MARTELL_NAME" Language="en_US">
+			<Text>Meria Martell</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_YELLOW_TOAD_NAME" Language="en_US">
+			<Text>Yellow Toad</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_YELLOW_TOAD_DESCRIPTION" Language="en_US">
+			<Text>+200% flanking bonus. +1 Movement if starting turn in friendly territory. No war weariness from combat in your territory.</Text>
+		</Row>
+		<!-- END OF THE MARTELL | MERIA_MARTELL	-->
+		<!-- THE ARRYN | SHARRA_ARRYN	-->
+		<Row Tag="LOC_LEADER_SHARRA_ARRYN_NAME" Language="en_US">
+			<Text>Sharra Arryn</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_THE_FLOWER_OFTHE_MOUNTAIN_NAME" Language="en_US">
+			<Text>The Flower of the Mountain</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_THE_FLOWER_OFTHE_MOUNTAIN_DESCRIPTION" Language="en_US">
+			<Text>+2 [ICON_Amenities] Amenity for cities with a garrisoned unit. +6 City [ICON_Strength] Defense Strength. +5 City [ICON_Ranged] Ranged Strength. +1 [ICON_GreatArtist] Great Artist points per turn.</Text>
+		</Row>
+		<!-- END OF THE ARRYN | SHARRA_ARRYN	-->
+		<!-- THE LANNISTER | LOREN_LANNISTER	-->
+		<Row Tag="LOC_LEADER_LOREN_LANNISTER_NAME" Language="en_US">
+			<Text>Loren Lannister</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LOREN_THE_LAST_NAME" Language="en_US">
+			<Text>Loren the Last</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LOREN_THE_LAST_DESCRIPTION" Language="en_US">
+			<Text>Units receive a +5 [ICON_Strength] Combat Strength on their home continent. May declare war on anyone at war with their allies without warmonger penalties. When at war with a common foe, they and their allies share pillage rewards and share combat experience gains if within 5 tiles.</Text>
+		</Row>
+		<!-- END OF THE LANNISTER | LOREN_LANNISTER	-->
+		<!-- THE GARDENER | MERNIX_GARDENER	-->
+		<Row Tag="LOC_LEADER_MERNIX_GARDENER_NAME" Language="en_US">
+			<Text>Mern IX Gardener</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LAST_KING_OFTHE_REACH_NAME" Language="en_US">
+			<Text>Last King of the Reach</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LAST_KING_OFTHE_REACH_DESCRIPTION" Language="en_US">
+			<Text>Units receive a +5 [ICON_Strength] Combat Strength on their home continent. May declare war on anyone at war with their allies without warmonger penalties. When at war with a common foe, they and their allies share pillage rewards and share combat experience gains if within 5 tiles.</Text>
+		</Row>
+		<!-- END OF THE GARDENER | MERNIX_GARDENER	-->
+		<!-- THE DURRANDON | ARGILAC_DURRANDON	-->
+		<Row Tag="LOC_LEADER_ARGILAC_DURRANDON_NAME" Language="en_US">
+			<Text>Argilac Durrandon</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_THE_ARROGANT_NAME" Language="en_US">
+			<Text>The Arrogant</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_THE_ARROGANT_DESCRIPTION" Language="en_US">
+			<Text>Units receive a +5 [ICON_Strength] Combat Strength on their home continent. Combat victories provide [ICON_Culture] Culture equal to 50% of the [ICON_Strength] Combat Strength of the defeated unit.</Text>
+		</Row>
+		<!-- END OF THE DURRANDON | ARGILAC_DURRANDON	-->
+		<!-- THE HOARE | HARREN_HOARE	-->
+		<Row Tag="LOC_LEADER_HARREN_HOARE_NAME" Language="en_US">
+			<Text>Harren Hoare</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_BLACK_HARREN_NAME" Language="en_US">
+			<Text>Black Harren</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_BLACK_HARREN_DESCRIPTION" Language="en_US">
+			<Text>Builders receive an additional charge. Spend Builder charges to complete 20% of the original district cost. All found or conquered cities on a continent other than your home continent receive a free melee unit.</Text>
+		</Row>
+		<!-- END OF THE HOARE | HARREN_HOARE	-->
+		<!-- THE TARGARYEN | AEGON_TARGARYEN	-->
+		<Row Tag="LOC_LEADER_AEGON_TARGARYEN_NAME" Language="en_US">
+			<Text>Aegon Targaryen</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_AEGON_THE_CONQUEROR_NAME" Language="en_US">
+			<Text>Aegon the Conqueror</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_AEGON_THE_CONQUEROR_DESCRIPTION" Language="en_US">
+			<Text>All found or conquered cities on a continent other than your home continent receive a free melee unit. Combat victories provide [ICON_Culture] Culture equal to 50% of the [ICON_Strength] Combat Strength of the defeated unit. When they eliminate a unit, they heal up to 50 hit points.</Text>
+		</Row>
+		<!-- END OF THE TARGARYEN | AEGON_TARGARYEN	-->
+	</LocalizedText>
+</GameData>

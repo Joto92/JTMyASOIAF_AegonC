@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
+    <Name>JT: A Song of Ice And Fire Aegon Conquest</Name>
+    <Guid>261637c6-fa00-423b-ba31-495167cddff4</Guid>
+    <ProjectGuid>d5c3489e-f6b0-492e-8d36-db312de6aaba</ProjectGuid>
+    <ModVersion>1</ModVersion>
+    <Teaser>Aegon Conquest Mod of A Song of Ice And Fire</Teaser>
+    <Description>This mod adds the Leaders of the A Song of Ice And Fire of George RR Martin during the Aegon Conquest.</Description>
+    <AffectsSavedGames>true</AffectsSavedGames>
+    <SupportsSinglePlayer>true</SupportsSinglePlayer>
+    <SupportsMultiplayer>true</SupportsMultiplayer>
+    <SupportsHotSeat>true</SupportsHotSeat>
+    <InGameActionData><![CDATA[
+      <InGameActions>
+        <UpdateDatabase id="Gameplay">
+          <File>MyASOIAF_AegonC_Civs.xml</File>
+          <File>MyASOIAF_AegonC_Leaders.xml</File>
+          <File>MyASOIAF_AegonC_Colors.xml</File>
+        </UpdateDatabase>
+        <UpdateText id="Text">
+          <File>MyASOIAF_AegonC_ConfigText.xml</File>
+          <File>MyASOIAF_AegonC_Text.xml</File>
+          <File>Translations/MyASOIAF_AegonC_ConfigText_ES.xml</File>
+          <File>Translations/MyASOIAF_AegonC_Text_ES.xml</File>
+          <File>MyASOIAF_AegonC_Civilopedia.xml</File>
+          <File>Translations/MyASOIAF_AegonC_Civilopedia_ES.xml</File>
+        </UpdateText>
+        <UpdateIcons id="Icons">
+          <File>MyASOIAF_AegonC_Icons.xml</File>
+        </UpdateIcons>
+        <UpdateArt id="Art">
+          <File>(Mod Art Dependency File)</File>
+        </UpdateArt>
+      </InGameActions>
+    ]]></InGameActionData>
+    <FrontEndActionData><![CDATA[
+      <FrontEndActions>
+        <UpdateDatabase id="Config">
+          <File>MyASOIAF_AegonC_Config.xml</File>
+        </UpdateDatabase>
+        <UpdateText id="ConfigText">
+          <File>MyASOIAF_AegonC_ConfigText.xml</File>
+          <File>Translations/MyASOIAF_AegonC_ConfigText_ES.xml</File>
+        </UpdateText>
+        <UpdateIcons id="ConfigIcons">
+          <File>MyASOIAF_AegonC_Icons.xml</File>
+        </UpdateIcons>
+        <UpdateArt id="ConfigArt">
+          <File>(Mod Art Dependency File)</File>
+        </UpdateArt>
+      </FrontEndActions>]]></FrontEndActionData>
+    <AssemblyName>MyASOIAF_AegonC</AssemblyName>
+    <RootNamespace>MyASOIAF_AegonC</RootNamespace>
+    <AssociationData><![CDATA[<Associations>
+    <Dependency type="Mod" title="JT: A Song of Ice And Fire " id="6e66a293-6a21-4650-bb3e-58d55c5fbcc1" />
+    </Associations>]]></AssociationData>
+    <Authors>J. Torné</Authors>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
+    <OutputPath>.</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="MyASOIAF_AegonC_Civilopedia.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Translations\MyASOIAF_AegonC_Civilopedia_ES.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Translations\MyASOIAF_AegonC_ConfigText_ES.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Translations\MyASOIAF_AegonC_Text_ES.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Folder Include="Artdefs\" />
+    <Folder Include="Translations" />
+    <Folder Include="Textures\" />
+    <Folder Include="XLPs\" />
+    <Content Include="MyASOIAF_AegonC_Colors.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyASOIAF_AegonC_Config.xml" />
+    <Content Include="MyASOIAF_AegonC_ConfigText.xml" />
+    <Content Include="MyASOIAF_AegonC_Civs.xml" />
+    <Content Include="MyASOIAF_AegonC_Icons.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyASOIAF_AegonC_Leaders.xml" />
+    <Content Include="MyASOIAF_AegonC_Text.xml" />
+    <None Include="ArtDefs\FallbackLeaders.artdef" />
+    <None Include="XLPs\LeaderFallbacks.xlp" />
+    <None Include="XLPs\UILeaders.xlp" />
+    <None Include="Mod.Art.xml" />
+  </ItemGroup>
+  <Import Project="$(MSBuildLocalExtensionPath)Civ6.targets" />
+</Project>

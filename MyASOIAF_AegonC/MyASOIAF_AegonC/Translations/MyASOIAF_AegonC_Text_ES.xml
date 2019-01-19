@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- THE NORTH | TORREHN_STARK	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_TORREHN_STARK" Language="es_ES">
+			<Text>Lord Torrhen Stark, mejor conocido como el Rey que se Arrodilló, fue cabeza de la Casa Stark y, como tal, Señor de Invernalia y Guardián del Norte. Fue el último Rey en el Norte, reinando hasta la llegada de Aegon el Conquistador y sus dragones.</Text>
+		</Replace>
+		<!-- END OF THE NORTH | TORREHN_STARK	-->
+		<!-- THE TULLY | EDMYN_TULLY	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_EDMYN_TULLY" Language="es_ES">
+			<Text>Lord Edmyn Tully fue cabeza de la Casa Tully y Señor de Aguasdulces. Fue el primer Tully en ostentar el título de Señor Supremo del Tridente y ejerció como Mano del Rey de Aegon I Targaryen por dos años.</Text>
+		</Replace>
+		<!-- END OF THE TULLY | EDMYN_TULLY	-->
+		<!-- THE MARTELL | MERIA_MARTELL	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_MERIA_MARTELL" Language="es_ES">
+			<Text>La princesa Meria Nymeros Martell fue cabeza de la Casa Martell y, como tal, Señora de Lanza del Sol y Princesa de Dorne durante el reinado de Aegon I Targaryen.</Text>
+		</Replace>
+		<!-- END OF THE MARTELL | MERIA_MARTELL	-->
+		<!-- THE ARRYN | SHARRA_ARRYN	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_SHARRA_ARRYN" Language="es_ES">
+			<Text>Lady Sharra Arryn fue la Reina Regente del Reino de Montaña y el Valle, gobernando en nombre de su hijo, el rey Ronnel Arryn, hasta la invasión de Poniente por Aegon I Targaryen. Sharra era considerada una de las mujeres más bellas de Poniente, llamada por ello la Flor de la Montaña.</Text>
+		</Replace>
+		<!-- END OF THE ARRYN | SHARRA_ARRYN	-->
+		<!-- THE LANNISTER | LOREN_LANNISTER	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_LOREN_LANNISTER" Language="es_ES">
+			<Text>Lord Loren Lannister, conocido como Loren el Último, fue cabeza de la Casa Lannister, y como tal, Señor de Roca Casterly, último Rey de la Roca y primer Guardián del Occidente.</Text>
+		</Replace>
+		<!-- END OF THE LANNISTER | LOREN_LANNISTER	-->
+		<!-- THE GARDENER | MERNIX_GARDENER	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_MERNIX_GARDENER" Language="es_ES">
+			<Text>El rey Mern IX Gardener fue cabeza de la Casa Gardener y, como tal, Señor de Altojardín y último Rey del Dominio.</Text>
+		</Replace>
+		<!-- END OF THE GARDENER | MERNIX_GARDENER	-->
+		<!-- THE DURRANDON | ARGILAC_DURRANDON	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_ARGILAC_DURRANDON" Language="es_ES">
+			<Text>El rey Argilac Durrandon, mejor conocido como Argilac el Arrogante, fue el último Rey de la Tormenta que gobernó las Tierras de la Tormenta antes de la Conquista de Aegon.</Text>
+		</Replace>
+		<!-- END OF THE DURRANDON | ARGILAC_DURRANDON	-->
+		<!-- THE HOARE | HARREN_HOARE	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_HARREN_HOARE" Language="es_ES">
+			<Text>El rey Harren Hoare, mejor conocido como Harren el Negro, fue el último Rey de las Islas y los Ríos, y el último miembro de la Casa Hoare. Construyó el gran castillo de Harrenhal en las Tierras de los Ríos.</Text>
+		</Replace>
+		<!-- END OF THE HOARE | HARREN_HOARE	-->
+		<!-- THE TARGARYEN | AEGON_TARGARYEN	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_AEGON_TARGARYEN" Language="es_ES">
+			<Text>El rey Aegon I Targaryen, llamado Aegon el Conquistador, Aegon Lordragón y Aegon el Dragón, fue el conquistador de los Siete Reinos y fundador de la dinastía Targaryen que reinó en Poniente por casi 300 años.</Text>
+		</Replace>
+		<!-- END OF THE TARGARYEN | AEGON_TARGARYEN	-->
+	</LocalizedText>
+</GameData>

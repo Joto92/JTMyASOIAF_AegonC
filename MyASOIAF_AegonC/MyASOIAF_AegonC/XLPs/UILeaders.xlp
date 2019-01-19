@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>315</build>
+		<revision>805</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="UILeaders"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="LEADER_TORREHN_STARK_NEUTRAL"/>
+			<m_ObjectName text="LEADER_TORREHN_STARK_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_EDMYN_TULLY_NEUTRAL"/>
+			<m_ObjectName text="LEADER_EDMYN_TULLY_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_MERIA_MARTELL_NEUTRAL"/>
+			<m_ObjectName text="LEADER_MERIA_MARTELL_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_SHARRA_ARRYN_NEUTRAL"/>
+			<m_ObjectName text="LEADER_SHARRA_ARRYN_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_LOREN_LANNISTER_NEUTRAL"/>
+			<m_ObjectName text="LEADER_LOREN_LANNISTER_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_MERNIX_GARDENER_NEUTRAL"/>
+			<m_ObjectName text="LEADER_MERNIX_GARDENER_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_ARGILAC_DURRANDON_NEUTRAL"/>
+			<m_ObjectName text="LEADER_ARGILAC_DURRANDON_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_HARREN_HOARE_NEUTRAL"/>
+			<m_ObjectName text="LEADER_HARREN_HOARE_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_HARREN_HOARE_BACKGROUND"/>
+			<m_ObjectName text="LEADER_HARREN_HOARE_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_AEGON_TARGARYEN_NEUTRAL"/>
+			<m_ObjectName text="LEADER_AEGON_TARGARYEN_NEUTRAL"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+

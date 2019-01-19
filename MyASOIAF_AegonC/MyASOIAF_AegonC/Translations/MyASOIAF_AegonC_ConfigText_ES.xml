@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- THE NORTH | TORREHN_STARK	-->
+		<Replace Tag="LOC_TRAIT_THE_KING_WHO_KNELT_NAME" Language="es_ES">
+			<Text>El Rey que se Arrodilló</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THE_KING_WHO_KNELT_DESCRIPTION" Language="es_ES">
+			<Text>Las civilizaciones más avanzadas que el Norte reciben Ciencia [ICON_Science] o Cultura [ICON_Culture] de las Rutas comerciales [ICON_TradeRoute] (+1 por cada 3 tecnologías o principios por delante).</Text>
+		</Replace>
+		<!-- END OF THE NORTH | TORREHN_STARK	-->
+		<!-- THE TULLY | EDMYN_TULLY	-->
+		<Replace Tag="LOC_TRAIT_FIRST_LORD_PARAMOUNT_TRIDENT_NAME" Language="es_ES">
+			<Text>El Primer Señor Supremo del Tridente</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_FIRST_LORD_PARAMOUNT_TRIDENT_DESCRIPTION" Language="es_ES">
+			<Text>En tu territorio habrá la mitad de hastío bélico por combate. +1 a Cultura [ICON_Culture] y +1 a Ciencia [ICON_Science] por las Rutas comerciales [ICON_TradeRoute] internacionales. Puede declararle la guerra cualquiera que esté en guerra con sus aliados sin sufrir penalizaciones por belicosidad. Cuando estén en guerra contra un enemigo común, sus aliados y ellos comparten las recompensas por saqueo y la experiencia de combate ganada si se encuentran a una distancia de 5 casillas o menos.</Text>
+		</Replace>
+		<!-- END OF THE TULLY | EDMYN_TULLY	-->
+		<!-- THE MARTELL | MERIA_MARTELL	-->
+		<Replace Tag="LOC_TRAIT_YELLOW_TOAD_NAME" Language="es_ES">
+			<Text>El Sapo Amarillo</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_YELLOW_TOAD_DESCRIPTION" Language="es_ES">
+			<Text>+200% bonus de flanqueo. +1 al Movimiento si el turno comienza en territorio amistoso. En tu territorio habrá no hastío bélico por combate.</Text>
+		</Replace>
+		<!-- END OF THE MARTELL | MERIA_MARTELL	-->
+		<!-- THE ARRYN | SHARRA_ARRYN	-->
+		<Replace Tag="LOC_TRAIT_THE_FLOWER_OFTHE_MOUNTAIN_NAME" Language="es_ES">
+			<Text>La Flor de la Montaña</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THE_FLOWER_OFTHE_MOUNTAIN_DESCRIPTION" Language="es_ES">
+			<Text>+2 a Servicios [ICON_Amenities] para ciudades con una unidad de guarnición. +6 a la Fuerza de defensa [ICON_Strength] de la ciudad. +5 a la Fuerza de ataque a distancia [ICON_Ranged] de la ciudad. +1 puntos de Gran artista [ICON_GreatArtist] por turno.</Text>
+		</Replace>
+		<!-- END OF THE ARRYN | SHARRA_ARRYN	-->
+		<!-- THE LANNISTER | LOREN_LANNISTER	-->
+		<Replace Tag="LOC_TRAIT_LOREN_THE_LAST_NAME" Language="es_ES">
+			<Text>Loren el Último</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LOREN_THE_LAST_DESCRIPTION" Language="es_ES">
+			<Text>Las unidades reciben +5 a la Fuerza de combate [ICON_Strength] en su continente de origen. Puede declararle la guerra cualquiera que esté en guerra con sus aliados sin sufrir penalizaciones por belicosidad. Cuando estén en guerra contra un enemigo común, sus aliados y ellos comparten las recompensas por saqueo y la experiencia de combate ganada si se encuentran a una distancia de 5 casillas o menos.</Text>
+		</Replace>
+		<!-- END OF THE LANNISTER | LOREN_LANNISTER	-->
+		<!-- THE GARDENER | MERNIX_GARDENER	-->
+		<Replace Tag="LOC_TRAIT_LAST_KING_OFTHE_REACH_NAME" Language="es_ES">
+			<Text>Último Rey del Dominio</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LAST_KING_OFTHE_REACH_DESCRIPTION" Language="es_ES">
+			<Text>Las unidades reciben +5 a la Fuerza de combate [ICON_Strength] en su continente de origen. Puede declararle la guerra cualquiera que esté en guerra con sus aliados sin sufrir penalizaciones por belicosidad. Cuando estén en guerra contra un enemigo común, sus aliados y ellos comparten las recompensas por saqueo y la experiencia de combate ganada si se encuentran a una distancia de 5 casillas o menos.</Text>
+		</Replace>
+		<!-- END OF THE GARDENER | MERNIX_GARDENER	-->
+		<!-- THE DURRANDON | ARGILAC_DURRANDON	-->
+		<Replace Tag="LOC_TRAIT_THE_ARROGANT_NAME" Language="es_ES">
+			<Text>El Arrogante</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THE_ARROGANT_DESCRIPTION" Language="es_ES">
+			<Text>Las unidades reciben +5 a la Fuerza de combate [ICON_Strength] en su continente de origen. Las victorias en combate proporcionan Cultura [ICON_Culture] equivalente al 50% de la Fuerza de combate [ICON_Strength] de la unidad derrotada.</Text>
+		</Replace>
+		<!-- END OF THE DURRANDON | ARGILAC_DURRANDON	-->
+		<!-- THE HOARE | HARREN_HOARE	-->
+		<Replace Tag="LOC_TRAIT_BLACK_HARREN_NAME" Language="es_ES">
+			<Text>Harren Negro</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_BLACK_HARREN_DESCRIPTION" Language="es_ES">
+			<Text>Los Constructores reciben una carga adicional. Gasta cargas de Constructor para completar el 20% del coste original del distrito. Todas las ciudades descubiertas o conquistadas en un continente distinto a tu continente de origen recibirán una unidad de cuerpo a cuerpo gratis.</Text>
+		</Replace>
+		<!-- END OF THE HOARE | HARREN_HOARE	-->
+		<!-- THE TARGARYEN | AEGON_TARGARYEN	-->
+		<Replace Tag="LOC_TRAIT_AEGON_THE_CONQUEROR_NAME" Language="es_ES">
+			<Text>Aegon el Conquistador</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_AEGON_THE_CONQUEROR_DESCRIPTION" Language="es_ES">
+			<Text>Todas las ciudades descubiertas o conquistadas en un continente distinto a tu continente de origen recibirán una unidad de cuerpo a cuerpo gratis. Las victorias en combate proporcionan Cultura [ICON_Culture] equivalente al 50% de la Fuerza de combate [ICON_Strength] de la unidad derrotada. Al eliminar a una unidad, recuperan hasta 50 puntos de golpe.</Text>
+		</Replace>
+		<!-- END OF THE TARGARYEN | AEGON_TARGARYEN	-->
+	</LocalizedText>
+</GameData>

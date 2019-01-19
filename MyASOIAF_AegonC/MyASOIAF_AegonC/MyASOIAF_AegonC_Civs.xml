@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<CivilizationLeaders>
+		<Row CivilizationType="CIVILIZATION_THE_NORTH" LeaderType="LEADER_TORREHN_STARK" CapitalName="LOC_CITY_NAME_WINTERFELL" />
+		<Row CivilizationType="CIVILIZATION_RIVERLANDS" LeaderType="LEADER_EDMYN_TULLY" CapitalName="LOC_CITY_NAME_RIVERRUN"/>
+		<Row CivilizationType="CIVILIZATION_DORNE" LeaderType="LEADER_MERIA_MARTELL" CapitalName="LOC_CITY_NAME_SUNSPEAR"/>
+		<Row CivilizationType="CIVILIZATION_VALE" LeaderType="LEADER_SHARRA_ARRYN" CapitalName="LOC_CITY_NAME_EYRIE"/>
+		<Row CivilizationType="CIVILIZATION_WESTERLANDS" LeaderType="LEADER_LOREN_LANNISTER" CapitalName="LOC_CITY_NAME_CASTERLY_ROCK"/>
+		<Row CivilizationType="CIVILIZATION_HOUSE_GARDENER" LeaderType="LEADER_MERNIX_GARDENER" CapitalName="LOC_CITY_NAME_HIGHGARDEN"/>
+		<Row CivilizationType="CIVILIZATION_HOUSE_DURRANDON" LeaderType="LEADER_ARGILAC_DURRANDON" CapitalName="LOC_CITY_NAME_STORM_END"/>
+		<Row CivilizationType="CIVILIZATION_HOUSE_HOARE" LeaderType="LEADER_HARREN_HOARE" CapitalName="LOC_CITY_NAME_HARRENHAL"/>
+		<Row CivilizationType="CIVILIZATION_HOUSE_TARGARYEN" LeaderType="LEADER_AEGON_TARGARYEN" CapitalName="LOC_CITY_NAME_DRAGONSTONE"/>
+
+	</CivilizationLeaders>
+</GameData>

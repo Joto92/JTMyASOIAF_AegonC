@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- THE NORTH | TORREHN_STARK	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_TORREHN_STARK" Language="en_US">
+			<Text>Torrhen Stark, known as the King Who Knelt, was a head of House Stark who reigned as King in the North until Aegon I Targaryen invaded Westeros with his dragons. He was named Lord of Winterfell and Warden of the North after submitting to Aegon during the War of Conquest.</Text>
+		</Row>
+		<!-- END OF THE NORTH | TORREHN_STARK	-->
+		<!-- THE TULLY | EDMYN_TULLY	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_EDMYN_TULLY" Language="en_US">
+			<Text>Edmyn Tully was Lord of Riverrun and head of House Tully during Aegon's Conquest. Lord Edmyn was the first riverlord to join Aegon the Conqueror's side in the fight against King Harren the Black. After Harren and his line perished in the burning of Harrenhal, Aegon granted Edmyn dominion over the riverlands as Lord Paramount of the Trident and required the other riverlords to swear him fealty.</Text>
+		</Row>
+		<!-- END OF THE TULLY | EDMYN_TULLY	-->
+		<!-- THE MARTELL | MERIA_MARTELL	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_MERIA_MARTELL" Language="en_US">
+			<Text>Meria Nymeros Martell was the ruling Princess of Dorne from House Martell during the invasion of Westeros by Aegon the Conqueror. By the time of the War of Conquest Meria was around eighty years old, fat, blind, and almost bald. The Storm King, Argilac Durrandon, called her the Yellow Toad of Dorne.</Text>
+		</Row>
+		<!-- END OF THE MARTELL | MERIA_MARTELL	-->
+		<!-- THE ARRYN | SHARRA_ARRYN	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_SHARRA_ARRYN" Language="en_US">
+			<Text>Sharra Arryn, known as the Flower of the Mountain, was Queen Regent of the Kingdom of Mountain and Vale, ruling in the name of her son, the boy-king Ronnel Arryn, during the invasion of Westeros by Aegon I Targaryen. Sharra was regarded as one the most beautiful women of Westeros.</Text>
+		</Row>
+		<!-- END OF THE ARRYN | SHARRA_ARRYN	-->
+		<!-- THE LANNISTER | LOREN_LANNISTER	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_LOREN_LANNISTER" Language="en_US">
+			<Text>Loren I Lannister was a King of the Rock and Lord of Casterly Rock from House Lannister. He submitted to the rule of House Targaryen after surviving the Field of Fire, and, as he was the last last King of the Rock, he became known as Loren the Last.</Text>
+		</Row>
+		<!-- END OF THE LANNISTER | LOREN_LANNISTER	-->
+		<!-- THE GARDENER | MERNIX_GARDENER	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_MERNIX_GARDENER" Language="en_US">
+			<Text>Mern IX Gardener was the last King of the Reach and Lord of Highgarden from House Gardener.Mern led the charge against Aegon's army alongside his kin. The combined might of the Reach and the Rock began to break the Targaryen host.</Text>
+		</Row>
+		<!-- END OF THE GARDENER | MERNIX_GARDENER	-->
+		<!-- THE DURRANDON | ARGILAC_DURRANDON	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_ARGILAC_DURRANDON" Language="en_US">
+			<Text>King Argilac Durrandon, also known as Argilac the Arrogant, was the last Storm King from House Durrandon who reigned in the stormlands before the Conquest by Aegon I Targaryen. </Text>
+		</Row>
+		<!-- END OF THE DURRANDON | ARGILAC_DURRANDON	-->
+		<!-- THE HOARE | HARREN_HOARE	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_HARREN_HOARE" Language="en_US">
+			<Text>Harren Hoare, known as Harren the Black or Black Harren, was last of the Kings of the Isles and the Rivers to rule over the Iron Islands and the riverlands, and the last member of House Hoare to rule. He completed the grand castle, Harrenhal, which would serve to be his doom.</Text>
+		</Row>
+		<!-- END OF THE HOARE | HARREN_HOARE	-->
+		<!-- THE TARGARYEN | AEGON_TARGARYEN	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_AEGON_TARGARYEN" Language="en_US">
+			<Text>Aegon I Targaryen, also known as Aegon the Conqueror and Aegon the Dragon, was the first Lord of the Seven Kingdoms and king on the Iron Throne, having conquered six of the Seven Kingdoms during the Conquest. The dragonlord was the founder of the ruling Targaryen dynasty of Westeros.</Text>
+		</Row>
+		<!-- END OF THE TARGARYEN | AEGON_TARGARYEN	-->
+	</LocalizedText>
+</GameData>

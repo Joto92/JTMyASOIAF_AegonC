@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- QUOTES >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MERIA_MARTELL_QUOTE" Language="es_ES">
+			<Text>El nuestro es Nunca Doblegado, Nunca Roto. Podéis quemarnos, mi señora, pero no nos doblegaréis ni nos romperéis. Estamos en Dorne.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HARREN_HOARE_QUOTE" Language="es_ES">
+			<Text>Me da lo mismo lo que haya alrededor de la muralla es gruesa y robusta. Son de piedra , y la piedra no arde.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>
